@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep 29 11:08:39 2023
+
+@author: Sangeeth. P
+"""
 import speech_recognition as sr
 
 def recognize_speech():
